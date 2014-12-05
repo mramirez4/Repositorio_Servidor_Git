@@ -10,4 +10,6 @@ and open the template in the editor.
 body{
     margin: left;
 }
-
+head{
+    margin-left: 10px;
+}
